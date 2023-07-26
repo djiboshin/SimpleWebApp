@@ -16,7 +16,8 @@ Poetry can also be used!
 ## Svelte
 
 1. Install node.js (**with npm!**)
-2. `npm create svelte@latest .`
-3. `npm install`
-4. start with `npm run dev`
+2. `npm create vite@latest`
+3. move everything from `./vite-project` to `./`
+4. `npm install`
+5. start with `npm run dev`
 
