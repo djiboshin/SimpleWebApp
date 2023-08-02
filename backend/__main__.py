@@ -10,4 +10,4 @@ def read_root():
 
 @app.get("/f")
 def read_item():
-    return [[1, 1, 1, 1], [1, 2, 3, 4], [4,4,4,4]]
+    return [[1, 1, 1, 1], [1, 2, 3, 4], [4, 4, 4, 4]]
